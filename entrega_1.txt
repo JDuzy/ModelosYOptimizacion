@@ -1,0 +1,6 @@
+Como impresión inicial, lo trate de pensar como un modelo, el objetivo hipotesis y en la mente no se me ocurría como poner las restricciones
+
+Pense en un algoritmo para resolverlo
+
+Aun no fueron realizados cambios para mejorar el resultado
+
